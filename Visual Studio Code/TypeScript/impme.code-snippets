@@ -1,0 +1,8 @@
+{
+  "Implement me, please.": {
+    "scope": "typescript,javascript",
+    "prefix": ["impme"],
+    "body": ["// TODO: Implement me, plz.", "throw new Error(\"Not implemented, yet.\");"],
+    "description": "Snippet for reminding myself to implement a certain feature."
+  }
+}
