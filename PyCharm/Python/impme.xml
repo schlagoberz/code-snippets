@@ -1,0 +1,7 @@
+<templateSet group="User">
+  <template name="impme" value="# TODO: Implement me, plz.&#10;raise NotImplementedError()$END$" description="Snippet for reminding myself to implement a certain feature." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
